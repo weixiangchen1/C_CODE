@@ -1,0 +1,3 @@
+﻿  水仙花数.c
+D:\Ccode\8_20\8_20\水仙花数.c(26,27): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  8_20.vcxproj -> D:\Ccode\8_20\Debug\8_20.exe
