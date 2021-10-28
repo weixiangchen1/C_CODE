@@ -1,0 +1,4 @@
+﻿  contact.c
+D:\Ccode\Contact\Contact\contact.c(34,40): warning C4028: 形参 1 与声明不同
+D:\Ccode\Contact\Contact\contact.c(92,42): warning C4028: 形参 1 与声明不同
+  Contact.vcxproj -> D:\Ccode\Contact\Debug\Contact.exe
