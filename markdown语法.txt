@@ -1,0 +1,4 @@
+方块    <kbd>  </kbd>
+空格    &nbsp;
+颜色文字  <font color=red size=3>文字</font> 
+换行     <br />
